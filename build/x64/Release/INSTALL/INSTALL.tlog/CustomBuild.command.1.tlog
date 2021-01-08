@@ -1,0 +1,10 @@
+^C:\USERS\NEERAJ\DESKTOP\DARKNET-MASTER1\DARKNET-MASTER\BUILD\CMAKEFILES\16F4001FD6C2B5E366850E6AB004F4FC\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
