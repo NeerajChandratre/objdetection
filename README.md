@@ -1,3 +1,2 @@
-1)Ran the object detection project using Darknet.
-2)Used custom trained weights for detecting plants and the results obtained are from the first training.
-3)Although the training needs further improvements, the results obtained are substantial having a decent level of accuracy in detection.  
+I share my first project on github. I ran the object detection project using Darknet using custom trained weights for detecting plants and the results obtained are from the first training. Although the training needs further improvements, the results obtained are substantial as they have a decent level of accuracy in detection.
+
