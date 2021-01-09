@@ -17,4 +17,9 @@ I share my first project on github. I ran the object detection project using Dar
 * I tested the images by typing the command darknet.exe detector test data/obj.data cfg/yolov3-custom.cfg backup/yolov3-custom_last.weights <image>.jpg
   
   ## LOSS CHART
+<img src="Images/chart.png" width="500" height="500">  
+
+  ## SOME IMAGES TESTED
+  ### GOOD RESULTS
   
+  <img src="Images/img1.jpg" width="250" height="250">  <img src="Images/img2.jpg" width="250" height="250">  <img src="Images/img3.jpg" width="250" height="250">  <img src="Images/img4.jpg" width="250" height="250">  <img src="Images/img5.jpg" width="250" height="250">  <img src="Images/img6.jpg" width="250" height="250">  <img src="Images/img7.jpg" width="250" height="250">  <img src="Images/img8.jpg" width="250" height="250">  <img src="Images/img9.jpg" width="250" height="250">  <img src="Images/img9.jpg" width="250" height="250">  <img src="Images/img10.jpg" width="250" height="250">
